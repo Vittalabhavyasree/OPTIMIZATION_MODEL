@@ -28,3 +28,8 @@ If you want, I can also provide the complete Python notebook code using PuLP for
 
 # OUTPUT
 
+<img width="903" height="220" alt="Image" src="https://github.com/user-attachments/assets/a4e87bcc-fa22-43e0-b116-aea653760c9d" />
+
+<img width="682" height="545" alt="Image" src="https://github.com/user-attachments/assets/8c57c337-a9ac-4f91-bd72-422b804013b7" />
+
+<img width="701" height="544" alt="Image" src="https://github.com/user-attachments/assets/c3c1e17b-28bf-40f0-aabf-db06f706abc5" />
